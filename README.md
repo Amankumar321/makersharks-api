@@ -4,10 +4,6 @@
 
 This project provides a RESTful API for searching manufacturers based on customized requirements. Built with Spring Boot, it includes endpoints to query suppliers by location, nature of business, and manufacturing processes.
 
-## Docs
-
-http://localhost:8080/swagger-ui/index.html
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -71,6 +67,10 @@ mvn spring-boot:run
 ```bash
 gradle bootRun
 ```
+
+### Docs
+
+See documentation at http://localhost:8080/swagger-ui/index.html
 
 ### Testing the Application
 
